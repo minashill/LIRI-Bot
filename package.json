@@ -1,0 +1,29 @@
+{
+  "name": "LIRI-Bot",
+  "version": "1.0.0",
+  "description": "Week 10 Node Assignment",
+  "main": "keys.js",
+  "dependencies": {
+    "color": "^2.0.0",
+    "inquirer": "^3.3.0",
+    "node-spotify-api": "^1.0.7",
+    "request": "^2.83.0",
+    "spotify": "^0.3.0",
+    "spotify-web-api-node": "^2.5.0",
+    "twitter": "^1.7.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Estreff/liri-node-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/minashill/LIRI-Bot/issues"
+  },
+  "homepage": "https://github.com/minashill/LIRI-Bot"
+}
